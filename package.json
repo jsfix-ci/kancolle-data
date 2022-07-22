@@ -40,7 +40,7 @@
     "gm": "^1.23.1",
     "lodash": "^4.17.21",
     "lua-json": "^1.0.0",
-    "node-fetch": "^2.6.5",
+    "node-fetch": "^3.2.9",
     "sort-keys": "^4.2.0"
   },
   "devDependencies": {
